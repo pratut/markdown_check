@@ -89,12 +89,12 @@ Fig: referenced-styled photo
 
 
 ### Videos
-<!-- ![alt video](markdown_video.mp4) -->
-<video controls src="markdown_video.mp4" title="Title"></video>
+![alt video](markdown_video.mp4)
+<!-- <video controls src="markdown_video.mp4" title="Title"></video> -->
 
 ### Audios
-<!-- ![Sample Audio](markdown_audio.mp3) -->
-<audio controls src="markdown_audio.mp3" title="Title"></audio>
+![Sample Audio](markdown_audio.mp3)
+<!-- <audio controls src="markdown_audio.mp3" title="Title"></audio> -->
 
 ## Lists
 1. First line
